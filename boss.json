@@ -1,0 +1,15 @@
+{
+	"name": "API Detroit Outlet",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "src",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/handle-exception": "^0.1.4",
+		"github.com/hashload/horse": "^v2.0.14",
+		"github.com/hashload/horse-basic-auth": "^v1.1.5",
+		"github.com/hashload/jhonson": "^1.1.2",
+		"github.com/viniciussanchez/dataset-serialize": "^v2.3.3"
+	}
+}
